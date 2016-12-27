@@ -1,5 +1,5 @@
 # Risk-model-by-Tensorflow
-## This is a naive risk model with Tensorflow
+**This is a naive risk model with Tensorflow**
 The data is .csv file, each column represent one feature, while one row represent one sample.
 The first column is ID, the second is label. The features are from the 3rd column to the end.
 
